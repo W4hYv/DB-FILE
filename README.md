@@ -27,18 +27,6 @@ Proyek ini dibangun secara rapi dengan membagi logika menjadi beberapa file agar
 
 ---
 
-## 🎨 Cuplikan Antarmuka (Screenshots)
-
-Berikut adalah tampilan bagaimana bot ini bekerja di dalam server Discord:
-
-### 📥 1. Mengisi Formulir Menggunakan UI Modal (`!test`)
-![Formulir Modal](https://githubusercontent.com) *(Catatan: Ganti dengan screenshot modal milikmu)*
-
-### 📊 2. Menampilkan Daftar Proyek (`!projects`)
-![Daftar Proyek](https://githubusercontent.com) *(Catatan: Ganti dengan screenshot proyek milikmu)*
-
----
-
 ## 🚀 Cara Menjalankan Proyek
 
 1. **Clone Repositori Ini**
